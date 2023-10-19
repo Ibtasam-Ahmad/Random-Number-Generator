@@ -1,0 +1,20 @@
+C:\Users\0319be\Downloads\RandomNumbersGenerator\RandomNumbersGenerator\bin\Debug\RandomNumbersGenerator.exe.config
+C:\Users\0319be\Downloads\RandomNumbersGenerator\RandomNumbersGenerator\bin\Debug\RandomNumbersGenerator.exe
+C:\Users\0319be\Downloads\RandomNumbersGenerator\RandomNumbersGenerator\bin\Debug\RandomNumbersGenerator.pdb
+C:\Users\0319be\Downloads\RandomNumbersGenerator\RandomNumbersGenerator\obj\Debug\RandomNumbersGenerator.csprojResolveAssemblyReference.cache
+C:\Users\0319be\Downloads\RandomNumbersGenerator\RandomNumbersGenerator\obj\Debug\RandomNumbersGenerator.Form1.resources
+C:\Users\0319be\Downloads\RandomNumbersGenerator\RandomNumbersGenerator\obj\Debug\RandomNumbersGenerator.Properties.Resources.resources
+C:\Users\0319be\Downloads\RandomNumbersGenerator\RandomNumbersGenerator\obj\Debug\RandomNumbersGenerator.csproj.GenerateResource.Cache
+C:\Users\0319be\Downloads\RandomNumbersGenerator\RandomNumbersGenerator\obj\Debug\RandomNumbersGenerator.exe
+C:\Users\0319be\Downloads\RandomNumbersGenerator\RandomNumbersGenerator\obj\Debug\RandomNumbersGenerator.pdb
+E:\CPS LAB\RandomNumbersGenerator\RandomNumbersGenerator\bin\Debug\RandomNumbersGenerator.exe.config
+E:\CPS LAB\RandomNumbersGenerator\RandomNumbersGenerator\bin\Debug\RandomNumbersGenerator.exe
+E:\CPS LAB\RandomNumbersGenerator\RandomNumbersGenerator\bin\Debug\RandomNumbersGenerator.pdb
+E:\CPS LAB\RandomNumbersGenerator\RandomNumbersGenerator\obj\Debug\RandomNumbersGenerator.csproj.AssemblyReference.cache
+E:\CPS LAB\RandomNumbersGenerator\RandomNumbersGenerator\obj\Debug\RandomNumbersGenerator.csproj.SuggestedBindingRedirects.cache
+E:\CPS LAB\RandomNumbersGenerator\RandomNumbersGenerator\obj\Debug\RandomNumbersGenerator.Form1.resources
+E:\CPS LAB\RandomNumbersGenerator\RandomNumbersGenerator\obj\Debug\RandomNumbersGenerator.Properties.Resources.resources
+E:\CPS LAB\RandomNumbersGenerator\RandomNumbersGenerator\obj\Debug\RandomNumbersGenerator.csproj.GenerateResource.cache
+E:\CPS LAB\RandomNumbersGenerator\RandomNumbersGenerator\obj\Debug\RandomNumbersGenerator.csproj.CoreCompileInputs.cache
+E:\CPS LAB\RandomNumbersGenerator\RandomNumbersGenerator\obj\Debug\RandomNumbersGenerator.exe
+E:\CPS LAB\RandomNumbersGenerator\RandomNumbersGenerator\obj\Debug\RandomNumbersGenerator.pdb
